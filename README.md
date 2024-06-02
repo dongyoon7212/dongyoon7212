@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=DB5C42&fontColor=f7f7f7&text=LEE%20DONG%20YOON&fontSize=80&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=60&strokeWidth=0" alt="Typing SVG" />
 
-<br>
-
 <div align=center>
 
 # 👋 Hello 👋
@@ -54,22 +52,17 @@
 <div align=center>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true" />
 </div>
-
 <br>
-
-<div align=center><h1>🚀 Contact 🚀</h1></div>
-
-<div align=center>
-    <a href="https://www.instagram.com/d.yxxn/">
-        <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
-
-<br>
-
 <div align=center>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongyoon7212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>
+
+<br>
+
+
+<br>
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=DB5C42&fontColor=ffffff&section=footer" alt="Typing SVG" />
