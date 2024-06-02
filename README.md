@@ -1,30 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LEE%20DONG%20YOON&fontSize=80&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=60&strokeWidth=0" alt="Typing SVG" />
 
-<div align="center">
-<br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2496ED&center=true&vCenter=true&random=false&width=1100&lines=%22%EC%B5%9C%EC%83%81%EC%9D%98+%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80+%EA%B0%80%EC%B9%98+%EC%9E%88%EB%8A%94+%EC%A0%95%EB%B3%B4%EB%A5%BC+%EB%B3%B4%EB%8B%A4+%EC%89%BD%EA%B2%8C+%EC%A0%84%EB%8B%AC%ED%95%98%EC%97%AC+%EB%8D%94+%EB%82%98%EC%9D%80+%EC%84%B8%EC%83%81%EC%9D%84+%EA%BF%88%EA%BE%B8%EB%8B%A4.%22" alt="Typing SVG" /></a>
-    <br/>
-    <br/>
-    <br/>
-</div>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=solarized-light&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyoon7212&layout=compact&hide=jupyter%20notebook&theme=solarized-light" />
-
-<br>
-<br>
-
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-front&theme=solarized-light" />
-</a>
-<a href="https://github.com/Novel-Ideas/gumeonggage-back">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-back&theme=solarized-light" />
-</a>
-
-
-
 <br>
 
 <div align=center><h1>🛠️ Teck Stack 🛠️</h1></div>
@@ -66,4 +41,32 @@
     <a href="https://www.instagram.com/d.yxxn/">
         <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
+</div>
+
+<br>
+
+<div align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=solarized-light&show_icons=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyoon7212&layout=compact&hide=jupyter%20notebook&theme=solarized-light" />
+
+<br>
+<br>
+
+<div>
+<a href="https://github.com/Novel-Ideas/gumeonggage-front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-front&theme=solarized-light" />
+</a>
+<a href="https://github.com/Novel-Ideas/gumeonggage-back">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-back&theme=solarized-light" />
+</a>
+</div>
+    <div>
+        <a href="https://github.com/dsu-graduation-thesis/DNRS_Web">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dsu-graduation-thesis&repo=DNRS_Web&theme=solarized-light" />
+        </a>
+        <a href="https://github.com/dongyoon7212/DSUTaxiSharing">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyoon7212&repo=DSUTaxiSharing&theme=solarized-light" />
+        </a>
+    </div>
 </div>
