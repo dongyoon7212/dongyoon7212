@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LEE%20DONG%20YOON&fontSize=80&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=60&strokeWidth=0" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=DB5C42&fontColor=f7f7f7&text=LEE%20DONG%20YOON&fontSize=80&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=60&strokeWidth=0" alt="Typing SVG" />
 
 <br>
 
 <div align=center>
 
-<span style="font-size:2em;">👋Hello👋</span>
-<br>
-<span style="font-size:1.5em;">🛫I like to traveltravel🛬</span>
-<br>
-<span style="font-size:1.5em;">🎵I like listening to music🎵</span>
+# 👋 Hello 👋
+
+### 🛫I like to traveltravel🛬
+
+### 🎵I like listening to music🎵
 
 
 </div>
@@ -70,3 +70,6 @@
 <div align=center>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongyoon7212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=DB5C42&fontColor=ffffff&section=footer" alt="Typing SVG" />
