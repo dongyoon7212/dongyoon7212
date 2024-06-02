@@ -4,7 +4,7 @@
 
 # 👋 Hello 👋
 
-### 🛫I like to traveltravel🛬
+### 🛫I like to travel🛬
 
 ### 🎵I like listening to music🎵
 
