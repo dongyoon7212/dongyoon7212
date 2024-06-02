@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=DB5C42&fontColor=f7f7f7&text=LEE%20DONG%20YOON&fontSize=80&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=60&strokeWidth=0" alt="Typing SVG" />
 
 <div align=center>
+<img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif">
+
+<br>
 
 # 👋 Hello 👋
 
