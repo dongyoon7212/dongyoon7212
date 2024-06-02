@@ -8,9 +8,24 @@
     <br/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=solarized-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyoon7212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=solarized-light&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyoon7212&layout=compact&hide=jupyter%20notebook&theme=solarized-light" />
+
+<br>
+<br>
+
+<a href="https://github.com/Novel-Ideas/gumeonggage-front">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-front&theme=solarized-light" />
+</a>
+<a href="https://github.com/Novel-Ideas/gumeonggage-back">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-back&theme=solarized-light" />
+</a>
+
+
+
+<br>
 
 <div align=center><h1>🛠️ Teck Stack 🛠️</h1></div>
 
