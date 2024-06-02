@@ -2,6 +2,21 @@
 
 <br>
 
+<div align=center>
+
+<span style="font-size:2em;">👋Hello👋</span>
+<br>
+<span style="font-size:1.5em;">🛫I like to traveltravel🛬</span>
+<br>
+<span style="font-size:1.5em;">🎵I like listening to music🎵</span>
+
+
+</div>
+
+
+
+<br>
+
 <div align=center><h1>🛠️ Teck Stack 🛠️</h1></div>
 
 <div align=center> 
@@ -35,7 +50,14 @@
 </div>
 <br>
 
-<div align=center><h1>🚀 About Me 🚀</h1></div>
+<div align=center><h1>✨ GitHub Stats ✨</h1></div>
+<div align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true" />
+</div>
+
+<br>
+
+<div align=center><h1>🚀 Contact 🚀</h1></div>
 
 <div align=center>
     <a href="https://www.instagram.com/d.yxxn/">
@@ -46,27 +68,5 @@
 <br>
 
 <div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=solarized-light&show_icons=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyoon7212&layout=compact&hide=jupyter%20notebook&theme=solarized-light" />
-
-<br>
-<br>
-
-<div>
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-front&theme=solarized-light" />
-</a>
-<a href="https://github.com/Novel-Ideas/gumeonggage-back">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Novel-Ideas&repo=gumeonggage-back&theme=solarized-light" />
-</a>
-</div>
-    <div>
-        <a href="https://github.com/dsu-graduation-thesis/DNRS_Web">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dsu-graduation-thesis&repo=DNRS_Web&theme=solarized-light" />
-        </a>
-        <a href="https://github.com/dongyoon7212/DSUTaxiSharing">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyoon7212&repo=DSUTaxiSharing&theme=solarized-light" />
-        </a>
-    </div>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongyoon7212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>
