@@ -65,8 +65,9 @@ I like building practical features, improving team workflows, and shipping proje
 </div>
 <br>
 
+<div align=center><h1>✨ GitHub Stats ✨</h1></div>
 <div align=center>
-    <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdongyoon7212?color=blue&label=hits&size=small" alt="hits" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true&count_private=true" />
 </div>
 
 <br>
