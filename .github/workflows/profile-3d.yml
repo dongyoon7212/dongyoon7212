@@ -17,7 +17,9 @@ jobs:
 
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PROFILE_3D_TOKEN 시크릿이 있으면 그걸 쓰고(비공개 저장소 활동 포함),
+          # 없으면 기본 GITHUB_TOKEN으로 폴백
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
