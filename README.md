@@ -67,7 +67,14 @@ I like building practical features, improving team workflows, and shipping proje
 
 <div align=center><h1>✨ GitHub Stats ✨</h1></div>
 <div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true&count_private=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/overview.svg#gh-dark-mode-only">
+  <img src="./github-stats/overview.svg" alt="GitHub Stats Overview" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/languages.svg#gh-dark-mode-only">
+  <img src="./github-stats/languages.svg" alt="Languages Used" />
+</picture>
 </div>
 
 <br>
