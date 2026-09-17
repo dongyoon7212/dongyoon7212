@@ -13,6 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-stats-cards
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
 
@@ -26,6 +27,9 @@ jobs:
       - uses: mlugg/setup-zig@v2
         with:
           version: 0.16.0
+          # 기본 미러 랜덤 선택 시 죽은 미러(ziglang.freetls.fastly.net)에
+          # 걸려 3분씩 타임아웃되므로 검증된 미러로 고정
+          mirror: https://pkg.hexops.org/zig
 
       - name: Build generator
         working-directory: _generator
