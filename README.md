@@ -59,6 +59,12 @@ I like building practical features, improving team workflows, and shipping proje
 </div>
 <br>
 
+<div align=center><h1>🌱 3D Contributions 🌱</h1></div>
+<div align=center>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+<br>
+
 <div align=center><h1>✨ GitHub Stats ✨</h1></div>
 <div align=center>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true" />
